@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @usmanarif1
+- 👀 I’m interested in Embedded Software Development using C++ & Data Science using Python & SQL
+- 🌱 I’m currently learning Data Visualization & Modelling using Python
+- 💞️ I’m looking to collaborate on Data Science Research Projects
+- 📫 I can be reached on linked in using following Link: https://www.linkedin.com/in/usmanarif1/.
